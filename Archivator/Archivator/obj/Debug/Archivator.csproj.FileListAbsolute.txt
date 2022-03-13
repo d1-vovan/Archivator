@@ -1,0 +1,7 @@
+C:\Users\ДНС\source\repos\Archivator\Archivator\obj\Debug\Archivator.csprojAssemblyReference.cache
+C:\Users\ДНС\source\repos\Archivator\Archivator\obj\Debug\Archivator.csproj.CoreCompileInputs.cache
+C:\Users\ДНС\source\repos\Archivator\Archivator\bin\Debug\Archivator.exe.config
+C:\Users\ДНС\source\repos\Archivator\Archivator\bin\Debug\Archivator.exe
+C:\Users\ДНС\source\repos\Archivator\Archivator\bin\Debug\Archivator.pdb
+C:\Users\ДНС\source\repos\Archivator\Archivator\obj\Debug\Archivator.exe
+C:\Users\ДНС\source\repos\Archivator\Archivator\obj\Debug\Archivator.pdb
